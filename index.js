@@ -1,8 +1,8 @@
 const recipes = {}
 
 function updateObjectWithKeyAndValue(obj, key, value) {
-    obj[key] = value
-    return obj
+    obj[key] = value;
+    return obj;
 }
 
 function updateObjectWithKeyAndValue(object, key, value) {
